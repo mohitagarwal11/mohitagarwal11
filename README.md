@@ -66,5 +66,5 @@
 ## Something I'm proud of recently:
 
 <p align="center">
-  <img src="./assets/linkedin-post.png" width="50%"/>
+  <img src="./assets/leetcode-stats.png" width="75%>
 </p>
