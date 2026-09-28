@@ -8,17 +8,25 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:agarwalmohit1011@gmail.com">
-  <img src="https://img.shields.io/badge/Email-444444?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-444444?style=flat-square&logo=gmail&logoColor=red"/>
 </a>
 
 </div>
 
-## Some facts about me:
+<br>
 
-- Complex Problem Solving
+<!-- ## Some facts about me: -->
+
+<!-- - Complex Problem Solving
 - Performance Optimization
 - Continuous Learning
-- Building From Scratch
+- Building From Scratch -->
+
+<div align="center">
+
+<img src="./assets/about-me.png" width="90%"/>
+
+<br/>
 
 ## Tech Stack:
 
@@ -61,10 +69,8 @@
   <img src="https://streak-stats.demolab.com/?user=mohitagarwal11&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<br/>
-
-## Something I'm proud of recently:
+## Something I have been proud of recently:
 
 <p align="center">
-  <img src="./assets/leetcode-stats.png" width="75%">
+  <img src="./assets/leetcode-stats.png" width="80%">
 </p>
