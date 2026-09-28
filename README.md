@@ -15,16 +15,9 @@
 
 <br>
 
-<!-- ## Some facts about me: -->
-
-<!-- - Complex Problem Solving
-- Performance Optimization
-- Continuous Learning
-- Building From Scratch -->
-
 <div align="center">
 
-<img src="./assets/about-me.png" width="90%"/>
+<img src="./assets/about-me.png" width="100%"/>
 
 <br/>
 
@@ -72,5 +65,5 @@
 ## Something I have been proud of recently:
 
 <p align="center">
-  <img src="./assets/leetcode-stats.png" width="80%">
+  <img src="./assets/leetcode-stats.png" width="100%">
 </p>
